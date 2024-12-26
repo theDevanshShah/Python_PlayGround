@@ -19,7 +19,6 @@ print(float)
 print(f"Hello my name is {string}, My name starts with {character}, my age is {integer}, my height is {float} & am I studing ? {boolean}")
 
 # Handling Input
-
 name = input("Your Name ? ")
 age = input("Your Age ?")
 isStudying = input("Are You Studying Yes Or No ? ")
